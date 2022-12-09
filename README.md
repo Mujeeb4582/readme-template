@@ -24,10 +24,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
+![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Webpack](https://img.shields.io/badge/-Webpack-green) ![React.js](https://img.shields.io/badge/-React.js-black)
 
 </div>
 
@@ -64,6 +61,8 @@ After you're finished please remove all the comments and instructions!
 **[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
+
+<a name="built-with">![HTML](https://img.shields.io/badge/-HTML-orange) <br> ![CSS](https://img.shields.io/badge/-CSS-blue) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) <br> ![Webpack](https://img.shields.io/badge/-Webpack-green) <br> ![React.js](https://img.shields.io/badge/-Rect.js-black)</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
